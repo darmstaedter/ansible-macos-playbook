@@ -3,12 +3,12 @@
 computername: Kerngehäuse
 hostname: kerngehaeuse
 
-system_save_application_state_on_quit: no
+system_save_application_state_on_quit: yes
 system_expand_save_panel_by_default: yes
 system_expand_print_panel_by_default: yes
 system_show_file_extensions_warning: no
 system_warn_before_emptying_the_trash: yes
-system_use_f_keys_as_standard_function_keys: yes
+system_use_f_keys_as_standard_function_keys: no
 system_index_network_storage_with_spotlight: no
 trackpad_tap_to_click: yes
 
@@ -23,52 +23,28 @@ homebrew_taps:
   - homebrew/cask-drivers
   - homebrew/cask-fonts
   - homebrew/cask-versions
-  - jeromegamez/formulae
-  - aws/tap
 
 homebrew_apps:
   - 1password
-  - alfred
-  - bartender
-  - brave-browser
-  - cleanmymac
-  - dash
-  - discord
-  - fantastical
   - fliqlo
   - font-fira-code
   - font-roboto
-  - franz
-  - gitup
   - gpg-suite
   - iina
   - iterm2
   - kaleidoscope
-  - mailmate
   - osxfuse
-  - paw
-  - phpstorm
+  - intellij
   - plug
   - sequel-pro
-  - sonos
-  - spillo
-  - rescuetime
   - slack
-  - spotify
-  - sublime-merge
-  - sublime-text
   - textual
-  - the-unarchiver
+  - keka
   - tower
   - transmit
-  - twitch
 
 homebrew_packages:
-  - aws-shell
-  - awscli
-  - aws-sam-cli
   - bash
-  - chag
   - composer
   - curl
   - git
@@ -92,10 +68,16 @@ homebrew_packages:
 
 mas_apps:
   - { name: 1Blocker, id: 1107421413 }
-  - { name: Bear, id: 1091189122 }
   - { name: Carbonize, id: 1451177988 }
   - { name: Pages, id: 409201541 }
-  - { name: Patterns, id: 429449079 }
+  - { name: Numbers, id: 409203825 }
+  - { name: Keynote, id: 409183694 }
+  - { name: Garageband, id: 682658836 }
+  - { name: iMovie, id: 408981434 }
   - { name: Pixelmator, id: 407963104 }
-  - { name: Reeder, id: 880001334 }
-  - { name: Tweetbot, id: 1384080005 }
+  - { name: iAWriter, id: 775737590 }
+  - { name: Integrity, id: 513610341 }
+  - { name: DaVinciResolve, id: 571213070 }
+  - { name: iAWriter, id: 775737590 }
+  - { name: xCode, id: 497799835 }
+  - { name: Telefon, id: 406825478 }
