@@ -52,7 +52,6 @@ homebrew_packages:
   - httpie
   - jq
   - libmemcached
-  - macvim
   - memcached
   - mysql@5.7
   - node
