@@ -21,3 +21,5 @@
       tags: [settings]
     - role: shell
       tags: [shell]
+    - role: extra_packages
+      tags: [extra_packages]

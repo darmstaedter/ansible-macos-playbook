@@ -81,3 +81,12 @@ mas_apps:
   - { name: iAWriter, id: 775737590 }
   - { name: xCode, id: 497799835 }
   - { name: Telefon, id: 406825478 }
+
+
+composer_packages:
+  - name: hirak/prestissimo
+  - name: hirak/prestissimo
+
+npm_packages:
+  - name: webpack
+  - name: json2csv
