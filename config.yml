@@ -40,7 +40,7 @@ homebrew_apps:
   - slack
   - textual
   - keka
-  - tower
+  - tower2
   - transmit
 
 homebrew_packages:
